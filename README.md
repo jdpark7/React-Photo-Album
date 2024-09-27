@@ -1,4 +1,4 @@
-## React Basic 강의: Unsplash Image API를 활용한 이미지 검색 사이트 만들기
+## React Basic 강의 콘텐츠: Unsplash Image API를 활용한 이미지 검색 사이트 만들기
 
 ### 개발환경
 
