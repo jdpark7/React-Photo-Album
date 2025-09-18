@@ -1,5 +1,5 @@
-@import './color.scss';
-@import './font.scss';
+@forward './color';
+@forward './font'; // font.scss에서 가져오는 CSS도 함께 forward 가능
 
 * {
     padding: 0;
