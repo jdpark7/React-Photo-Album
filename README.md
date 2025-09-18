@@ -1,3 +1,6 @@
+## 엉망진창 개발자 '9Diin' [출처] 프런트엔드 개발의 효율성을 높이는 아키텍처 FSD(Feature-Sliced Design)|작성자 개발자 9Diin
+ https://github.com/daffy3/YT-React 의 소스코드를 가져와서 업데이트 함.
+ 
 ## React Basic 강의 콘텐츠: Unsplash Image API를 활용한 이미지 검색 사이트 만들기
 
 ### 개발환경
